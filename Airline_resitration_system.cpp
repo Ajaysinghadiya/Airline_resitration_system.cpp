@@ -101,7 +101,7 @@ public:
             else if (choice1 == 2)
             {
                 charges = 10000;
-                cout << "\n You have successfully booked the flight DUB - 678" << endl;
+                cout << "\n You has successfully booked the flight DUB - 678" << endl;
                 cout << "You can go back to menu and take the ticket " << endl;
             }
 
